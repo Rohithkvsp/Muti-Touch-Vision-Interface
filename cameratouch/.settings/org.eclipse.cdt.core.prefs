@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.334104154/NDKROOT/delimiter=;
+environment/project/0.334104154/NDKROOT/operation=append
+environment/project/0.334104154/NDKROOT/value=C\:\\Users\\ROHIT\\android_ndk
+environment/project/0.334104154/PROJDIRPATH/delimiter=;
+environment/project/0.334104154/PROJDIRPATH/operation=append
+environment/project/0.334104154/PROJDIRPATH/value=C\:\\opencv\\OpenCV-3.0-android-sdk
+environment/project/0.334104154/append=true
+environment/project/0.334104154/appendContributed=true

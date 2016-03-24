@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.cameratouch.MainActivity" >
+
+    <item android:id="@+id/settings" android:title="Settings"></item>
+     <item android:id="@+id/item1" android:title="Detect"></item>
+</menu>
